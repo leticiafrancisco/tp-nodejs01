@@ -1,0 +1,27 @@
+{
+  "name": "tp-nodejs01",
+  "version": "1.0.0",
+  "description": "primeiro projeto no NODEJS na aula de TP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticiafrancisco/tp-nodejs01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "tecnicasdeprogramacao"
+  ],
+  "author": "Leticia Francisco dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leticiafrancisco/tp-nodejs01/issues"
+  },
+  "homepage": "https://github.com/leticiafrancisco/tp-nodejs01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
